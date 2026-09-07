@@ -44,8 +44,12 @@ Dining: Integrated restaurant reservation management.
 
 ## User Journey & App Flow
 Authentication: Secure Login/Registration.
+
 Mode Selection: Selection between "Individual" or "Group" orchestration modes.
+
 Input Phase: Users define budget ceilings across four specific buckets: Makan (Food), Activity, Transport, and Hotel.
+
 AI Curation: The engine generates "Place/Activity/Food" suggestions. Crucially, the user chooses which specific activities to accept into the master plan.
+
 Refinement: Final manual "Add/Remove" adjustments to the suggested itinerary.
 
